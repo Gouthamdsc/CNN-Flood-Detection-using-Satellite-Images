@@ -1,0 +1,18 @@
+To run this Kaggle file download ipynb file which contains the complete code of the project which produces the outputs that describe the complete project.
+After downloading the file import ths file to the Kaggle notebook.
+We need to run the first cell which contains the libraries that are used in this project if we not run this cell we may get errors and the entire code will not work properly.
+Prerequisites
+
+Ensure the following software is installed on your system:
+
+Python 3.10 or later
+Jupyter Notebook or Kaggle Notebook
+Git (optional for cloning the repository)
+
+Running in Kaggle
+Create a new Kaggle Notebook.
+Add the FloodNet dataset using the "Add Input" option.
+Upload the project notebook.
+Enable GPU acceleration:
+Settings → Accelerator → GPU.
+Run all notebook cells sequential
