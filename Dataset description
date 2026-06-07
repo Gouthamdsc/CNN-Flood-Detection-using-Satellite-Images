@@ -1,0 +1,20 @@
+Dataset link : https://www.kaggle.com/datasets/aletbm/aerial-imagery-dataset-floodnet-challenge
+The FloodNet Challenge Dataset consists of high-resolution aerial images collected using unmanned aerial vehicles (UAVs) over flood-affected regions. The dataset was developed to support research in flood detection, damage assessment, and disaster management through computer vision techniques.
+The images represent various land-cover and infrastructure categories that commonly appear in flood scenarios. These categories include flooded and non-flooded buildings, roads, vegetation, water bodies, vehicles, and other objects relevant to disaster assessment.
+Number of Images: The dataset contains approximately 2,300+ labeled aerial images
+Number of Classes
+The dataset contains ten classes:
+Building Flooded
+Building Non-Flooded
+Road Flooded
+Road Non-Flooded
+Water
+Tree
+Vehicle
+Pool
+Grass
+Flooded Area
+Image Type
+RGB aerial imagery
+UAV/drone-captured images
+High-resolution JPEG images
